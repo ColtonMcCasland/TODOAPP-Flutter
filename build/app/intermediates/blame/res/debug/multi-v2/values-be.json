@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/coltonmccasland/Library/CloudStorage/iCloudDrive/Desktop/TODOAPP-Flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "map": [
+                {
+                    "source": "/Users/coltonmccasland/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/6c8bb3f7d2a4a94f99459035a703b898/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
