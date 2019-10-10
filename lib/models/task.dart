@@ -1,13 +1,13 @@
 class Task {
 
+  int id; // id for task
+  String title; // title for task
+  String description; // description for task
+  String dueDate; // due date for notification of task
+  bool isDone; // indication if task is completed
 
-  int id;
-  String title;
-  String description;
-  String dueDate;
-  bool isDone;
 
-
+  //initilizing of task item
   Task({
     this.id,
     this.title,
@@ -16,15 +16,16 @@ class Task {
     this.isDone = false,
   });
 
+  // draw from Map
   factory Task.fromMap(Map<String, dynamic> json) => Task(
         id: json["id"],
         title: json["title"],
         description: json["description"],
         dueDate: json["dueDate"],
-
         isDone: json["isDone"] == 1,
       );
 
+  // write to Map
   Map<String, dynamic> toMap() {
     Map<String, dynamic> map = {
       "id": id,

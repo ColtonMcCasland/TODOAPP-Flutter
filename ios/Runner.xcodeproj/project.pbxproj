@@ -390,7 +390,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.coltonMcCasland.todoList;
+				PRODUCT_BUNDLE_IDENTIFIER = com.coltonMcCasland.todoApp;
 				PRODUCT_NAME = Runner;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -520,7 +520,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.coltonMcCasland.todoList;
+				PRODUCT_BUNDLE_IDENTIFIER = com.coltonMcCasland.todoApp;
 				PRODUCT_NAME = Runner;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -544,7 +544,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.coltonMcCasland.todoList;
+				PRODUCT_BUNDLE_IDENTIFIER = com.coltonMcCasland.todoApp;
 				PRODUCT_NAME = Runner;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
